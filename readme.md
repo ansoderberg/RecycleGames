@@ -21,3 +21,5 @@ This scafolding makes responsive web development much easier and is used on a la
 jquery, jquery is a javascript library that provides many functions to make writing javascript easier.
 
 This site url is: https://jasonsoderberg.github.io/testWebSite/
+
+if you want to point your domain to this you would add a CNAME record in your DNS and point it to this url ie. jasonsoderberg.github.io/testWebSite/
