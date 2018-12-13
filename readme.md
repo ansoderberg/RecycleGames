@@ -19,3 +19,5 @@ site looks good on all browsers since all browsers have different default settin
 to find well developed bootstrap themes id http://wrapbootstrap.com since they use best practices in extending "not customizing". 
 This scafolding makes responsive web development much easier and is used on a large percent of modern websites. This also uses 
 jquery, jquery is a javascript library that provides many functions to make writing javascript easier.
+
+This site url is: https://jasonsoderberg.github.io/testWebSite/
