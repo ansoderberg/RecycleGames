@@ -1,3 +1,8 @@
+GITHUB PAGES
+=======
+
+## Using Github pages to host websites.  This is a basic twitter bootstrap html/css template.
+
 Hosting pages from github.io: https://pages.github.com/
 Configuring your repository: https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/
 
